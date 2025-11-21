@@ -1,17 +1,24 @@
-# bitcoin icon demo
+A Flutter demonstration project for implementing custom icons.
 
-A simple Flutter demo project created for the article.
-- [Article: How to use custom icons in Flutter?](https://fin.design/export-flutter-icons-plugin)
+**Project Structure:**
+- `/android` - Android platform files
+- `/ios` - iOS platform files  
+- `/lib` - Dart source code
+- `/resources` - Asset resources
+- `/test` - Test files
 
-## Getting Started
+**Purpose:**
+Demo project created for instructional article on using custom icons in Flutter applications.
 
-A few resources to get you started if this is your first Flutter project:
+**Features:**
+- Custom icon implementation
+- Platform-specific icon configuration
+- Launcher icon updates for both Android and iOS
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+**Getting Started:**
+This project serves as a reference implementation for Flutter developers working with custom icons. Refer to Flutter documentation for basic app development guidance.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-![Screen shot of the app](https://github.com/findesign-opensource/export-flutter-icons-demo/blob/master/resources/Screen%20Shot.png)
+**Recent Updates:**
+- Updated launcher icons
+- Enhanced icon assets
+- iOS icon improvements
